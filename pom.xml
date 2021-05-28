@@ -604,7 +604,7 @@
                         <url>jdbc:mysql://localhost:3306/SporturileUnibuc</url>
                         <defaultSchemaName>SporturileUnibuc</defaultSchemaName>
                         <username>root</username>
-                        <password></password>
+                        <password>MstRavcs100!</password>
                         <referenceUrl>hibernate:spring:com.sporturileunibuc.domain?dialect=org.hibernate.dialect.MySQL8Dialect&amp;hibernate.physical_naming_strategy=org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy&amp;hibernate.implicit_naming_strategy=org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy</referenceUrl>
                         <verbose>true</verbose>
                         <logging>debug</logging>

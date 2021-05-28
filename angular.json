@@ -95,6 +95,7 @@
   },
   "defaultProject": "sporturile-unibuc",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
